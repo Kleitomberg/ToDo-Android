@@ -1,0 +1,31 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="74dp"
+    android:height="74dp"
+    android:viewportWidth="74"
+    android:viewportHeight="74">
+  <path
+      android:pathData="M37,33m-33,0a33,33 0,1 1,66 0a33,33 0,1 1,-66 0">
+    <aapt:attr name="android:fillColor">
+      <gradient 
+          android:startX="37"
+          android:startY="0"
+          android:endX="37"
+          android:endY="66"
+          android:type="linear">
+        <item android:offset="0" android:color="#FF344686"/>
+        <item android:offset="1" android:color="#FF2EEDED"/>
+      </gradient>
+    </aapt:attr>
+  </path>
+  <path
+      android:pathData="M36.125,45.125V36.875H27.875V34.125H36.125V25.875H38.875V34.125H47.125V36.875H38.875V45.125H36.125Z"
+      android:fillColor="#ffffff"/>
+  <group>
+    <clip-path
+        android:pathData="M36.125,45.125V36.875H27.875V34.125H36.125V25.875H38.875V34.125H47.125V36.875H38.875V45.125H36.125Z"/>
+    <path
+        android:pathData="M36.125,45.125H-144V225.25H36.125V45.125ZM36.125,36.875H216.25V-143.25H36.125V36.875ZM27.875,36.875H-152.25V217H27.875V36.875ZM27.875,34.125V-146H-152.25V34.125H27.875ZM36.125,34.125V214.25H216.25V34.125H36.125ZM36.125,25.875V-154.25H-144V25.875H36.125ZM38.875,25.875H219V-154.25H38.875V25.875ZM38.875,34.125H-141.25V214.25H38.875V34.125ZM47.125,34.125H227.25V-146H47.125V34.125ZM47.125,36.875V217H227.25V36.875H47.125ZM38.875,36.875V-143.25H-141.25V36.875H38.875ZM38.875,45.125V225.25H219V45.125H38.875ZM216.25,45.125V36.875H-144V45.125H216.25ZM36.125,-143.25H27.875V217H36.125V-143.25ZM208,36.875V34.125H-152.25V36.875H208ZM27.875,214.25H36.125V-146H27.875V214.25ZM216.25,34.125V25.875H-144V34.125H216.25ZM36.125,206H38.875V-154.25H36.125V206ZM-141.25,25.875V34.125H219V25.875H-141.25ZM38.875,214.25H47.125V-146H38.875V214.25ZM-133,34.125V36.875H227.25V34.125H-133ZM47.125,-143.25H38.875V217H47.125V-143.25ZM-141.25,36.875V45.125H219V36.875H-141.25ZM38.875,-135H36.125V225.25H38.875V-135Z"
+        android:fillColor="#ffffff"/>
+  </group>
+</vector>

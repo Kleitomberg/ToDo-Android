@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="devby">DevBy</string>
+    <string name="list">List</string>
+    <string name="Kleitomberg">Kleitomberg</string>
+    <string name="nova_tarefa">Adicionar nova Tarefa</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="titulo">Titulo da tarefa</string>
+    <string name="descricao">Descrição</string>
+
+
+</resources>
